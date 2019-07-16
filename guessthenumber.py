@@ -17,5 +17,5 @@ if __name__ == '__main__':
         else:
             print("Guess is too low")
         c = i+1
-    if c == 6:
+    if c == 7:
         print("Nope. the number I was thinking is {}".format(x))
